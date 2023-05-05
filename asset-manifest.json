@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/EvoFit/static/css/main.00131b78.css",
-    "main.js": "/EvoFit/static/js/main.65c49298.js",
+    "main.js": "/EvoFit/static/js/main.bff5c8af.js",
     "static/media/banner.png": "/EvoFit/static/media/banner.22a1c63aed9725fc4d13.png",
     "static/media/Logo.png": "/EvoFit/static/media/Logo.1031517b48d688a27981.png",
     "static/media/FooterLogo .png": "/EvoFit/static/media/FooterLogo .3967b546e1bdd0f42634.png",
     "static/media/gym.png": "/EvoFit/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/EvoFit/index.html",
     "main.00131b78.css.map": "/EvoFit/static/css/main.00131b78.css.map",
-    "main.65c49298.js.map": "/EvoFit/static/js/main.65c49298.js.map"
+    "main.bff5c8af.js.map": "/EvoFit/static/js/main.bff5c8af.js.map"
   },
   "entrypoints": [
     "static/css/main.00131b78.css",
-    "static/js/main.65c49298.js"
+    "static/js/main.bff5c8af.js"
   ]
 }
