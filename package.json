@@ -1,5 +1,5 @@
 {
-  "homepage": "https://VipulVW14.github.io/EvoFit",
+  "homepage": "https://vipulvw14.github.io/EvoFit",
   "name": "fitness_app",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +8,7 @@
     "@emotion/styled": "^11.8.1",
     "@mui/icons-material": "^5.6.1",
     "@mui/material": "^5.6.1",
+    "gh-pages": "^5.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-horizontal-scrolling-menu": "^2.7.1",
